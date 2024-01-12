@@ -1,0 +1,30 @@
+body{
+    background-color: #383838;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+header{
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 33vw;
+    color: white;
+}
+
+section{
+    width:50%;
+    background-color: rgb(239,235,228);
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+}
+
+.div2{
+    background-color: rgb(12,112,242);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    width: 120px;
+}
